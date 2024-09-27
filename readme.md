@@ -129,3 +129,4 @@ ML Libraries (sklearn, xgboost, catboost, etc)
 
 ## Python
 - [Декораторы в Python](https://habr.com/ru/articles/814217/)
+- [Fluent Python (Code)](https://github.com/AllenDowney/fluent-python-notebooks/blob/master/03-dict-set/dialcodes.ipynb)
