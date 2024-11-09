@@ -1,3 +1,8 @@
+# DE Roadmap
+
+## md file
+[Базовый синтаксис записи и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 ## Spark
 
 - Знает назначение драйвера и экзекьюторов, объясняет shuffle по аналогии с MapReduce, знает, как уменьшить и увеличить число партиций. 
@@ -115,6 +120,8 @@ ML Libraries (sklearn, xgboost, catboost, etc)
 [Архитектура хранилищ данных: традиционная и облачная](https://habr.com/ru/articles/441538/)
 [Снежинка, Data Vault, Anchor Modeling. Какая методология проектирования DWH подойдет для вашего бизнеса?](https://habr.com/ru/articles/786822/)
 [DataVault / Anchor Modeling / Николай Голов](https://www.youtube.com/watch?v=-ZgzpQXsxi0)
+[Топ-5 архитектурных паттернов для распределённых систем](https://tproger.ru/translations/top-5-arhitekturnyh-patternov-dlja-raspredeljonnyh-sistem)
+[System Integration Patterns](https://testengineer.ru/system-integration-patterns/)
 
 ## OOP
 - [Solid](https://habr.com/ru/companies/itentika/articles/694730/)
